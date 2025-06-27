@@ -36,7 +36,4 @@ The project is suitable for extension into more complex models like Random Fores
 
 ---
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
 
